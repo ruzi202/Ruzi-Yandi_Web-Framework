@@ -120,7 +120,8 @@
                     <div class="message-box">                        
                         <h2>Tentang Saya.</h2>
                         <p> Nama: Ruzi Yandi</p>
-
+						<p> TTL: Pesawaran 15 Juli 2002</p>
+						<p> Kuliah: Universitas Lampung</p>
                         <a href="#" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
@@ -231,13 +232,14 @@
 							</div>
 						</div>
 						<div class="post-info">
-							<h4>Quisque auctor lectus interdum nisl accumsan venenatis.</h4>
+							<h4>"Membangun Situs Web yang Responsif dan Mudah Digunakan"</h4>
 							<ul>
                                 <li>by admin</li>
-                                <li>Apr 21, 2018</li>
+                                <li>Apr 24, 2025</li>
                                 <li><a href="#"><b> Comments</b></a></li>
                             </ul>
-							<p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet massa sodales aliquam at eget quam. Integer ultricies et magna quis.</p>
+							<p>Dalam dunia pengembangan web modern, penting untuk memastikan bahwa setiap elemen desain dan fungsionalitas bekerja secara harmonis. Kami berfokus pada kualitas kode yang bersih, pengalaman pengguna yang intuitif, dan performa optimal untuk semua perangkat.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -251,13 +253,13 @@
 							</div>
 						</div>
 						<div class="post-info">
-							<h4>Quisque auctor lectus interdum nisl accumsan venenatis.</h4>
+							<h4>"Tips Penting untuk Meningkatkan Kecepatan Situs Web Anda"</h4>
 							<ul>
                                 <li>by admin</li>
-                                <li>Apr 21, 2018</li>
+                                <li>Apr 24, 2025</li>
                                 <li><a href="#"><b> Comments</b></a></li>
                             </ul>
-							<p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet massa sodales aliquam at eget quam. Integer ultricies et magna quis.</p>
+							<p>Kecepatan situs web sangat penting untuk menjaga pengunjung tetap terlibat dan meningkatkan peringkat SEO. Dalam artikel ini, kami akan membahas beberapa tips praktis untuk mempercepat situs web Anda, termasuk kompresi gambar, penggunaan CDN, dan optimasi kode.</p>
 						</div>
 					</div>
 				</div>
@@ -271,13 +273,13 @@
 							</div>
 						</div>
 						<div class="post-info">
-							<h4>Quisque auctor lectus interdum nisl accumsan venenatis.</h4>
+							<h4>"Tren Pengembangan Web 2025: Apa yang Harus Anda Ketahui"</h4>
 							<ul>
                                 <li>by admin</li>
-                                <li>Apr 21, 2018</li>
+                                <li>Apr 24, 2025</li>
                                 <li><a href="#"><b> Comments</b></a></li>
                             </ul>
-							<p>Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet massa sodales aliquam at eget quam. Integer ultricies et magna quis.</p>
+							<p>Tahun 2025 membawa banyak inovasi baru dalam pengembangan web. Dari penggunaan AI hingga desain minimalis, tren-tren ini akan membantu Anda tetap relevan di industri digital. Mari kita lihat apa saja yang harus Anda ketahui tentang tren pengembangan web terbaru!</p>
 						</div>
 					</div>
 				</div>
@@ -290,7 +292,7 @@
         <div class="container">
             <div class="section-title text-left">
                 <h3>Contact</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <p></p>
             </div><!-- end title -->
 
             <div class="row">
